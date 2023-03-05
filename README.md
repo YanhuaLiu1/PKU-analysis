@@ -13,14 +13,14 @@ All results can be reproduced by executing the various Jupyter Python notebooks 
  3.Folder 'PKU disease analysis with a single compartment model'
     In this folder, we could reproduce the results for PKU disease with the single compartment (Figure S1/S2/S3/S4).
     
- 4. Folder 'PKU diet and Obesity'
+4.Folder 'PKU diet and Obesity'
     In this folder, the relationship between PKU diet and obesity is calculated (Also for Figure 4).
     
- 5. Folder 'Other potential treatments for PKU disease'
+5.Folder 'Other potential treatments for PKU disease'
     In this folder, we could find the potential treatments of increasing the biomass production outside of the brain and increasing the carrier ability (Also for Figure 5 and Figure S11).
     
- 6. Folder 'Using Recon3D'
+6.Folder 'Using Recon3D'
     We also checked the robustness of our methodology by using latest human metabolic model 'Recon3D' in this folder.
     
- 7. Folder 'Using tissue specific model'
+7.Folder 'Using tissue specific model'
     We also checked the robustness of our methodology by using Brian and liver tissue specific model in this folder.
