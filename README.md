@@ -1,6 +1,8 @@
 # PKU-analysis
 The data and code in this repository should allow full reproduction of the data and figures discussed in the publication.
 
+Figures with higher resolution are provided in folder 'Figures with high resolution', you can find all figures for main text and Supplementary material.
+
 All results can be reproduced by executing the various Jupyter Python notebooks files in this order:
 
  1.Folder 'Model Making'    
